@@ -163,10 +163,10 @@ You should be able to create sections that demonstrate...
 - [ ] Inline text styling using the following tags:
   - [x] ✏️ `<em>` and `<i>`
   - [x] ✏️ `<strong>` and `<b>`
-  - [ ] ✏️ `<code>`
-- [ ] ✏️ The `<a>` tag
-- [ ] ✏️ The `<img>` tag
-- [ ] ✏️ The different header tags `<h1>`, `<h2>`, `<h3>`, etc.
+  - [x] ✏️ `<code>`
+- [x] ✏️ The `<a>` tag
+- [x] ✏️ The `<img>` tag
+- [x] ✏️ The different header tags `<h1>`, `<h2>`, `<h3>`, etc.
 
 ### Lists
 
