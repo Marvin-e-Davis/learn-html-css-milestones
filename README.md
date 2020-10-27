@@ -141,9 +141,9 @@ In `basic-snippet.html`, you should be able to:
 
 - [x] ✏️ Name the tags in the snippet
 - [x] ✏️ Link to 2-3 online references that describe each tag, give examples, etc.
-- [ ] ✏️ Describe the relationship between the tags in terms of nesting ("X is a child of Y")
-- [ ] ✏️ Explain the relationship between `<p>` and `</p>`
-- [ ] ✏️ List some of the attribute names on the `<a>` tag
+- [x] ✏️ Describe the relationship between the tags in terms of nesting ("X is a child of Y")
+- [x] ✏️ Explain the relationship between `<p>` and `</p>`
+- [x] ✏️ List some of the attribute names on the `<a>` tag
 - [ ] ✏️ For each attribute on the `<a>` tag, name its value
 - [ ] ✏️ For each attribute/value pair on the `<a>` tag, describe its purpose and effect
 
