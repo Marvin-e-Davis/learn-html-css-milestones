@@ -99,7 +99,7 @@ You should be able to...
 - [x] ✏️ Write some HTML in `basic-image.html`
 - [x] Open `basic-image.html` in your browser and test it locally
 - [x] Use "Inspect Element" to open the developer tools and view the HTML and CSS for areas on your web page
-- [ ] ✏️ Add an image to the project `assets/img/` directory and display it on the webpage using the `<img>` tag
+- [x] ✏️ Add an image to the project `assets/img/` directory and display it on the webpage using the `<img>` tag
 
 
 
