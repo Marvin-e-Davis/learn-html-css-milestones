@@ -225,8 +225,8 @@ Building on `basic-tags.html`, you should be able to create tables of varying si
 Using `basic-css.html`, you should be able to demonstrate the following by using a `<style>` tag to include the CSS:
 
 - [ ] Selectors...
-  - [ ] ✏️ Type / tag selectors
-  - [ ] ✏️ Class selectors
+  - [x] ✏️ Type / tag selectors
+  - [x] ✏️ Class selectors
   - [ ] ✏️ ID selectors
 - [ ] Combinators...
   - [ ] ✏️ Descendant combinator
