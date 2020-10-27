@@ -172,10 +172,10 @@ You should be able to create sections that demonstrate...
 
 Building on `basic-tags.html`, you should be able to do the following:
 
-- [ ] ✏️ Create multiple unordered lists using the `<ul>` and `<li>` tags
-- [ ] ✏️ Create multiple ordered lists using the `<ol>` and `<li>` tags
-- [ ] ✏️ Include other HTML inside the list item (`<li>`) tags, e.g., paragraphs, images, links, etc.
-- [ ] ✏️ Nest lists within each other
+- [x] ✏️ Create multiple unordered lists using the `<ul>` and `<li>` tags
+- [x] ✏️ Create multiple ordered lists using the `<ol>` and `<li>` tags
+- [x] ✏️ Include other HTML inside the list item (`<li>`) tags, e.g., paragraphs, images, links, etc.
+- [x] ✏️ Nest lists within each other
 
 ### Tables
 
