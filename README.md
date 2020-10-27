@@ -144,8 +144,8 @@ In `basic-snippet.html`, you should be able to:
 - [x] ✏️ Describe the relationship between the tags in terms of nesting ("X is a child of Y")
 - [x] ✏️ Explain the relationship between `<p>` and `</p>`
 - [x] ✏️ List some of the attribute names on the `<a>` tag
-- [ ] ✏️ For each attribute on the `<a>` tag, name its value
-- [ ] ✏️ For each attribute/value pair on the `<a>` tag, describe its purpose and effect
+- [x] ✏️ For each attribute on the `<a>` tag, name its value
+- [x] ✏️ For each attribute/value pair on the `<a>` tag, describe its purpose and effect
 
 
 ### Basic Tags
@@ -156,13 +156,13 @@ Each section should be contained in its own `<section>` tag. Do not use any CSS 
 
 You should be able to create sections that demonstrate...
 
-- [ ] The following block-level text containers:
-  - [ ] ✏️ The paragraph `<p>` tag
-  - [ ] ✏️ The blockquote `<blockquote>` tag
-  - [ ] ✏️ The pre-formatted text `<pre>` tag
+- [x] The following block-level text containers:
+  - [x] ✏️ The paragraph `<p>` tag
+  - [x] ✏️ The blockquote `<blockquote>` tag
+  - [x] ✏️ The pre-formatted text `<pre>` tag
 - [ ] Inline text styling using the following tags:
-  - [ ] ✏️ `<em>` and `<i>`
-  - [ ] ✏️ `<strong>` and `<b>`
+  - [x] ✏️ `<em>` and `<i>`
+  - [x] ✏️ `<strong>` and `<b>`
   - [ ] ✏️ `<code>`
 - [ ] ✏️ The `<a>` tag
 - [ ] ✏️ The `<img>` tag
