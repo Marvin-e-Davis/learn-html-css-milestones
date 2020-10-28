@@ -160,7 +160,7 @@ You should be able to create sections that demonstrate...
   - [x] ✏️ The paragraph `<p>` tag
   - [x] ✏️ The blockquote `<blockquote>` tag
   - [x] ✏️ The pre-formatted text `<pre>` tag
-- [ ] Inline text styling using the following tags:
+- [x] Inline text styling using the following tags:
   - [x] ✏️ `<em>` and `<i>`
   - [x] ✏️ `<strong>` and `<b>`
   - [x] ✏️ `<code>`
