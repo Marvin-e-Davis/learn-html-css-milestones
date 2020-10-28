@@ -289,12 +289,6 @@ You should be able to...
 - [x] ✏️ Replace this: **https://marvin-e-davis.github.io/learn-html-css-milestones/** with your repo's Github Page url.
 
 
-
-
-
-
-
-
 ## Grading
 - [ ] Points: `20`
 	- [ ] `2` Development Environment
