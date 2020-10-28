@@ -300,5 +300,4 @@ You should be able to...
 
 
 ## Credits
-
 This assignment was adapted from [milestones-html](https://github.com/jfarmer/milestones-html), created by [Jesse Farmer](https://github.com/jfarmer) for the DIG 245 Liberal Arts in Silicon Valley curriculum.
